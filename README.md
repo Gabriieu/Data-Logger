@@ -106,17 +106,5 @@ Cada registro salvo contém:
 
 ---
 
-## 🚀 Possíveis Melhorias Futuras
-- Inclusão de comunicação sem fio (ex.: Wi-Fi/Bluetooth) para envio de dados em tempo real.
-- Interface web para visualização remota dos registros.
-- Adição de SD Card para armazenamento de longo prazo.
-
----
-
 ## 🖋️ Licença
 Este projeto pode ser distribuído e modificado sob os termos da **MIT License**.
-
----
-
-### ✨ Créditos
-Projeto desenvolvido para disciplina de **Engenharia de Computação** com foco em **sistemas embarcados e monitoramento ambiental**.
