@@ -19,7 +19,7 @@ Os dados são exibidos em um **LCD 16x2 com interface I2C**, armazenados em **me
 ---
 ## Diagrama elétrico
 
-![Diagrama](Diagrama.jpg)
+![Diagrama](Diagrama)
 
 ---
 
