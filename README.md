@@ -17,11 +17,24 @@ Os dados são exibidos em um **LCD 16x2 com interface I2C**, armazenados em **me
 - Emitir **alertas visuais e sonoros** quando as leituras ultrapassarem limites pré-definidos.
 
 ---
-## Diagrama elétrico
 
-![Diagrama](Diagrama)
+## 📊 Diagrama Elétrico
+
+Abaixo está o esquema de ligação de todos os componentes do projeto, incluindo Arduino, sensores, display LCD e demais periféricos.
+
+![Diagrama do Circuito](Diagrama)
 
 ---
+
+## 🔌 Protótipo em Funcionamento
+
+| Vista Externa | Vista Externa | Vista Interior |
+|:--------------:|:-------------:|:--------------------:|
+| ![Protótipo – Frente](img-1.jpg) | ![Protótipo – Lado](img-2.jpg) | ![Protótipo – Sensores](img-3.jpg) |
+
+---
+
+
 
 ## ⚙️ Especificações do Sistema
 | Componente            | Função                                                                 |
