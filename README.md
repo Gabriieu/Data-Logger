@@ -2,13 +2,13 @@
 Data Logger EC5
 # 🌡️💡 Data Logger Arduino – Monitoramento Ambiental
 
-Este projeto consiste em um **data logger** dedicado ao monitoramento de **temperatura**, **umidade relativa do ar** e **luminosidade** em ambientes controlados.  
+Este projeto consiste em um **data logger** dedicado ao monitoramento de **temperatura**, **umidade relativa do ar** e **luminosidade** para armazém de vinhos.  
 Os dados são exibidos em um **LCD 16x2 com interface I2C**, armazenados em **memória EEPROM** e marcados com **timestamp** utilizando um módulo RTC.
 
 ---
 
 ## 🎯 Objetivos
-- Criar um dispositivo de registro de dados (*data logger*) para monitoramento ambiental.  
+- Criar um dispositivo de registro de dados (*data logger*) para monitoramento das condições do ambiente para um armazém de vinhos.  
 - Monitorar:
   - **Temperatura** (°C ou °F)
   - **Umidade relativa do ar (%)**
